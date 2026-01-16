@@ -9,10 +9,3 @@ It allows you to test and interact with the remote `expense-tracker-remoteserver
 The server acts as a proxy to:
 `https://expense-tracker-remoteserver.fastmcp.app/mcp`
 
-## Running
-
-You can run this using `uv`:
-
-```bash
-uv run fastmcp dev main.py
-```
